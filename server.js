@@ -1,5 +1,5 @@
 const express = require("express");
-const axios = require("../backend/pcp_pract/node_modules/axios/index.d.cts");
+const axios = require("axios");
 
 const app = express();
 
