@@ -10,12 +10,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "axios": "^1.13.6",
     "express": "^5.2.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAdvaita/PCP_CA1_E0223009.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SAdvaita/PCP_CA1_E0223009/issues"
+  },
+  "homepage": "https://github.com/SAdvaita/PCP_CA1_E0223009#readme",
+  "description": ""
 }
